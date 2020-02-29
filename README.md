@@ -15,6 +15,8 @@ Note: the general aim of this contribution is to aid further research and also p
 
 Thanks all and hope to contribute Deep Learning development, cheers.
 
+Data access -> https://drive.google.com/drive/folders/1YrzY2BtNvNVBW2cooYt32r1hAOaG2Plc?usp=sharing
+
 Team information:
 
 -labs -> Edgar Andrés
