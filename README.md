@@ -11,6 +11,8 @@ Now, we are able to start with some baby steps over 'labs/' (easy tasks) folder,
 
 Finally we provide some practical approaches using the begginers previous information with some data scientist steps over 'assigments/' (intemedium tasks) folder, here, every user will be able to apreciate the powerfulness of the provided tools. And there are also provide implementations of many usual Deep Learning models as RNNs or Word Embbedings. The last model provided 'word-by-word-attention' (hard tasks) will ensemble toguether all concepts with some informatics engineering steps and should be understanded reading all the pappers provided inside. 
 
+Note: the general aim of this contribution is to aid further research and also play with the models (maybe applying optimization strategies ...), for any issue try to contact eandres011@ikasle.ehu.eus
+
 Thanks all and hope to contribute Deep Learning development, cheers.
 
 Team information:
