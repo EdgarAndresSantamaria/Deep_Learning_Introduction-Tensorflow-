@@ -9,7 +9,7 @@ Then we provide a blog to introductory get used to it https://towardsdatascience
 
 Now, we are able to start with some baby steps over 'labs/' (easy tasks) folder, this should be easy following https://colah.github.io/posts/2015-08-Understanding-LSTMs/. Finally we provide an attention lab (intermedium difficulty) that should be understanded following [Rocktäschel's](https://arxiv.org/pdf/1509.06664v4.pdf).
 
-Finally we provide some practical approaches using the begginers previous information with some data scientist steps over 'assigments/' (intemedium tasks) folder, here, every user will be able to apreciate the powerfulness of the provided tools. And there are also provide implementations of many usual Deep Learning models as RNNs or Word Embbedings. The last model provided 'Sword-by-word-attention' (hard tasks) will ensemble toguether all concepts with some informatics engineering steps and should be understanded reading all the pappers provided inside. 
+Finally we provide some practical approaches using the begginers previous information with some data scientist steps over 'assigments/' (intemedium tasks) folder, here, every user will be able to apreciate the powerfulness of the provided tools. And there are also provide implementations of many usual Deep Learning models as RNNs or Word Embbedings. The last model provided 'word-by-word-attention' (hard tasks) will ensemble toguether all concepts with some informatics engineering steps and should be understanded reading all the pappers provided inside. 
 
 Thanks all and hope to contribute Deep Learning development, cheers.
 
